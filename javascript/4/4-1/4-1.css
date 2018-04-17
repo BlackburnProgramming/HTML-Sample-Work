@@ -1,0 +1,30 @@
+body {
+    background-color: #03436a;
+    font-family: Arial;
+}
+article {
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #64a8d1;
+    border: solid #000000 3px;
+    border-radius: 15px;
+    font-size:  16pt;
+    text-align: center;
+    color: #ffffff;
+}
+header {
+    width: 500px;
+    height: 50px;
+    margin: auto;
+    background-color: #64a8d1;
+    text-align: center;
+    border: solid #000000 1px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 32pt;
+}
+h1 {
+    line-height: 10px;
+}
