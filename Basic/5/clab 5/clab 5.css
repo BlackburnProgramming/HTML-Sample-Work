@@ -1,0 +1,44 @@
+body {
+    background-color:#bfbf30;
+    font-family: arial;
+}
+header {
+    background-color:#a6a600;
+    text-align: center;
+    padding-top: 7px;
+    font-size: 28pt;
+    height: 50px;
+    width: 70%;
+}
+nav {
+    background-color:#ffff73;
+    float: left;
+    font-size: 14pt;
+    height: 300px;
+    width: 20%;
+}
+a {
+    color:#a6a600;
+}
+a:hover {
+    color:#bfbf30;
+}
+article {
+    text-align: center;
+    background-color:#ffff40;
+    float: left;
+    font-size: 14pt;
+    overflow: auto;
+    height: 300px;
+    width: 50%;
+}
+span {
+    font-style: italic;
+}
+footer {
+    text-align: center;
+    background-color:#a6a600;
+    clear: left;
+    height: 50px;
+    width: 70%;
+}

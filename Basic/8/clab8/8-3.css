@@ -1,0 +1,37 @@
+body {
+    background-color:#ff8100;
+    font-family: arial;
+}
+header {
+    border-radius: 10px;
+    color:#61b7cf;
+    padding: 20px;
+}
+article {
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+table {
+    width: 100%;
+    background-color:#61b7cf
+}
+td {
+    width: 33%;
+    vertical-align: top;
+    padding: 5px;
+}
+h2 {
+    background-color:#216477;
+    color:#61b7cf;
+}
+p {
+
+}
+img {
+    margin: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color:#025167;
+    border-width: 2px;
+}

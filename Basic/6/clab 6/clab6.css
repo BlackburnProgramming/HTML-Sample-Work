@@ -1,0 +1,51 @@
+body {
+    width: 100%;
+    background-image: url(stars.jpg);
+    font-family: arial;
+    padding: 15px;
+    color:#ffffff
+}
+header {
+    height: 250px;
+    background-image: url(banner.jpg);
+}
+nav {
+    color:#ffffff;
+    text-align: center;
+    background-color:#444444;
+    font-size: 14pt;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color:#ffffff;
+}
+a:hover {
+    color:#dedede;
+}
+section {
+    background-color:#2a4480;
+}
+article {
+    width: 65%;
+    float: left;
+}
+aside {
+    height: 100vh;
+    width: 20%;
+    background-color:#6c8cd5;
+    float: right;
+}
+img {
+    width: 100%;
+}
+figcaption {
+    background-color:#cdcdcd;
+    color:#000000;
+    text-align: center;
+}
+footer {
+    background-color:#6c8cd5;
+    text-align: center;
+    clear: both;
+}
