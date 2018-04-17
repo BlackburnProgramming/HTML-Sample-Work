@@ -1,0 +1,31 @@
+body {
+    background-color:#678ed2;
+}
+table {
+    background-color:#dcdcdc;
+    width: 800px;
+    margin: autp;
+}
+td {
+    text-align: center;
+    padding: 5px;
+}
+.first {
+    background-color:#a66200;
+}
+.second {
+    background-color:#ff9700;
+}
+.third {
+    background-color:#a3844a;
+}
+.fourth {
+    background-color:#ffb140;
+}
+.fifth {
+    background-color:#ffc673;
+}
+th {
+    background-color:#000000;
+    color:#ffffff;
+}

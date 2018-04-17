@@ -1,0 +1,37 @@
+#box1 {
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-color: rgba(255,0,0,0.5);
+}
+#box2 {
+    width: 300px;
+    height: 300px;
+    float: right;
+    background-color: rgba(0,255,0,0.5);
+}
+#box3 {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    background-color: rgba(0,0,355,0.5);
+}
+body {
+    background-image: url(2-1back.gif)
+}
+section {
+    margin: auto;
+    width: 700px;
+    height: 200px;
+}
+header {
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+}
+h1 {
+    line-height: 50px;
+    font-family: arial;
+    color:#ffffff;
+}

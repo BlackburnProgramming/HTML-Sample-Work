@@ -1,0 +1,43 @@
+.imageBox {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color:#ff4900;
+    border-style: solid;
+    border-color:#000000;
+    border-radius: 5px;
+}
+.textBox {
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color:#007241;
+    color:#ffffff;
+}
+body {
+    background-color:#a62f00;
+    font-family: arial;
+    text-align: center;
+}
+h1 {
+    line-height: 50px;
+}
+p {
+    text-align: justify;
+}
+section {
+    width: 1000px;
+    margin: auto;
+    clear: both;
+}
+header {
+    background-image: url(header.jpg);
+    margin: auto;
+    width: 700px;
+    height: 130px;
+    border-radius: 10px;
+    text-align: center;
+}

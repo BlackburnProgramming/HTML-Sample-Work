@@ -1,0 +1,33 @@
+body {
+    background-color:#e3fb71;
+    font-family: Arial;
+}
+header {
+    margin: auto;
+    width: 800px;
+    border-radius: 10px;
+    background-color:#85a000;
+    color:#ffffff;
+    text-align: center;
+}
+h1 {
+    line-height: 50px;
+}
+section {
+    margin: auto;
+    width: 700px;
+    height: 650px;
+    background-color:#7c1f7c;
+    padding: 20px;
+    border-radius: 10px;
+}
+td {
+    background-color:#dafb3f;
+    text-align: center;
+}
+th {
+    width: 100px;
+    height: 50px;
+    background-color:#a1b92e;
+    padding: 20px;
+}

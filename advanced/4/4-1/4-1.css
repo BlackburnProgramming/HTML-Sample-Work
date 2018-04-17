@@ -1,0 +1,46 @@
+body {
+    background-image: url(camera.jpg);
+    font-family: Arial;
+    text-align: center;
+}
+article {
+    margin: auto;
+    width: 800px;
+    padding: 10px;
+    background-color: rgba(42,68,128,0.5);
+    border-radius: 10px;
+}
+header {
+    margin: auto;
+    width: 800px;
+    background-color:#2a4480;
+    text-align: center;
+    color:#6c8cd5;
+    border-radius: 10px;
+}
+h1 {
+    line-height: 50px;
+}
+p {
+    text-align: justify;
+    font-size: 14pt;
+}
+section {
+    margin: auto;
+    margin-top: 20px;
+    width: 550px;
+    text-align: center;
+    background-color:#a66f00;
+    padding: 10px;
+    border-radius: 10px;
+}
+td {
+    background-color:#6c8cd5;
+    
+}
+th {
+    background-color:#bf8f30;
+}
+table {
+    width: 550px;
+}

@@ -1,0 +1,41 @@
+#left {
+    width: 300px;
+    float: left;
+}
+#right {
+    width: 300px;
+    float: right;
+}
+#center {
+    width: 250px;
+    margin: auto;
+    text-align: center;
+}
+body {
+    background-color: #248f40;
+    font-family: Arial;
+}
+header {
+    width: 800px;
+    margin: auto;
+    background-color: #43dc90;
+    text-align: center;
+    border: solid #000000 1px;
+    border-radius: 10px;
+    transform: skewX(10deg)
+}
+h1 {
+    line-height: 30px;
+}
+p {
+    text-align: justify;
+    font-size: 11pt;
+    color: #ffffff;
+}
+section {
+    margin: auto;
+    margin-top: 10px;
+    width: 900px;
+    background-color: #005000;
+    padding: 10px;
+}

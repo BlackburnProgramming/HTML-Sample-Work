@@ -1,0 +1,64 @@
+body {
+    background: -moz-linear-gradient(top,rgb(6,36,111),rgb(204,255,204));
+    background: -webkit-linear-gradient(top,rgb(6,36,111),rgb(204,255,204));
+    background: -o-linear-gradient(top,rgb(6,36,111),rgb(204,255,204));
+    color: rgb(255,255,255);
+    font-family: arial;
+}
+section {
+    width: 750px;
+    height: 800px;
+    padding: 75px;
+    background-image: url(titanic.jpg);
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(0,0,0);
+    border-width: 2px;
+    margin: 0 auto;
+}
+header {
+    width: 750px;
+    margin: 0 auto;
+    background-color: rgba(6,38,111,0.5);
+   
+    border-radius: 10px;
+    clear: both;
+}
+h1 {
+    font-size: 48pt;
+    text-align: center;
+}
+article {
+    width: 450px;
+    min-height: 300px;
+    font-size: 12pt;
+    background-color: rgba(42,68,128,0.7);
+    padding: 5px;
+    border-radius: 10px;
+    float: left;
+}
+nav {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 50px;
+    background: -webkit-linear-gradient(top, rgba(6,38,111,1), rgba(42,68,128,0));
+    padding: 5px;
+    border-radius: 10px;
+    float: right;
+    text-align: center;
+}
+a {
+    color: rgb(255,255,255);
+    font-size: 18pt;
+    text-decoration: none;
+}
+a:hover {
+    background: -webkit-radial-gradient(rgba(34,134,83,1), rgba(34,134,83,0));
+}
+img {
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(0,0,0);
+    float: right;
+}
